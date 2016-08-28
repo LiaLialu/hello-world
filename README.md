@@ -1,2 +1,2 @@
 # hello-world
-start up
+This is a start up trial for github
